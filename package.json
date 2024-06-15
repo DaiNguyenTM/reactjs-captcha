@@ -1,0 +1,24 @@
+{
+  "name": "reactjs-captcha",
+  "version": "4.5.0-RC2",
+  "description": "BotDetect CAPTCHA React Component (JavaScript: React 0.13.x/0.14.x/15/16/17/18+)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captcha-com/reactjs-captcha.git"
+  },
+  "homepage": "https://captcha.com/react-captcha.html",
+  "keywords": [
+    "captcha",
+    "react captcha",
+    "reactjs captcha",
+    "captcha generator",
+    "react captcha component",
+    "reactjs captcha component",
+    "botdetect"
+  ],
+  "main": "./public-api.js",
+  "author": "BotDetect CAPTCHA",
+  "bugs": {
+    "url": "https://captcha.com/support"
+  }
+}
